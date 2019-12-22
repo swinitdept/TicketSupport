@@ -5,6 +5,7 @@ Andrew's Ticketing system
 
 
 Current feature in process:
+
 	"New Ticket" Switch/trigger. (When client submit ticket, create temp text file. Server detect the file and create button in server 		gui and delete the temp file)
 	Client ticketing software gui design
 	Server ticketing software gui design
@@ -21,6 +22,7 @@ Current feature in process:
 
 
 Upcoming feature:
+
 	Client: When no network, auto dectect problem and fix it.
 	"Thank you" button or text box for client software. (survey?)
 	Search
