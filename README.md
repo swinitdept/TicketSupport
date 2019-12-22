@@ -5,7 +5,7 @@ Andrew's Ticketing system
 
 
 Current feature in process:
-	"New Ticket" Switch/trigger. (When client submit ticket, create temp text file. Server detect the file and create button in server gui and delete the temp file)
+	"New Ticket" Switch/trigger. (When client submit ticket, create temp text file. Server detect the file and create button in server 		gui and delete the temp file)
 	Client ticketing software gui design
 	Server ticketing software gui design
 	Configure file (cotains software version, username, department)
