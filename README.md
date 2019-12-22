@@ -29,4 +29,5 @@ Upcoming feature:
 	Text Chat
 	Audio Chat
 	Auto find similarity problem in knowledge base, and give solution. (or Google passiable fix)
+	Auto dectect passible problem when client software lunched, and write the info in config file for auto fill.
 	AI
