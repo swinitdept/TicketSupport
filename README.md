@@ -13,9 +13,11 @@ Current feature in process:
 	Server: Able to move text file from "open ticket" to "closed ticket"
 	Server: Clear "Closed Ticket" frame daily, and keep "Open ticket" until closed. (Closed Ticket will move to knowledge base for "Search" feature)
 	Technician: Able to pull daily closed ticket, and auto create shift report. (send to email)
+	Technician: Able to get login username on tablet for technician.
 	Client: Pops up when ticket is assigned.
 	Cilent: Able to insert image.
 	Cilent: Auto fill basic info.
+	
 	
 	
 
