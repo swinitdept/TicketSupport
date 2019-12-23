@@ -9,6 +9,7 @@ Current feature in process:
 	Client ticketing software gui design
 	Server ticketing software gui design
 	Configure file (cotains software version, username, department)
+	Server: Show Ticket number.
 	Server: Push "ticket" button to create ticket detail dialog box, and "accept" button in detail dialog box.
 	Server: Able to move text file from "open ticket" to "closed ticket"
 	Server: Clear "Closed Ticket" frame daily, and keep "Open ticket" until closed. (Closed Ticket will move to knowledge base for "Search" feature)
@@ -18,6 +19,7 @@ Current feature in process:
 	Client: Pops up when ticket is assigned.
 	Cilent: Able to insert image.
 	Cilent: Auto fill basic info.
+	Client: Create ticket number and use it as file name.
 	
 	
 	
@@ -30,6 +32,6 @@ Upcoming feature:
 	Search
 	Text Chat
 	Audio Chat
-	Auto find similarity problem in knowledge base, and give solution. (or Google passiable fix)
+	Auto find similarity problem in knowledge base, and give solution when user lunch the client software as well as when server gets the ticket. (or Google passiable fix)
 	Auto dectect passible problem when client software lunched, and write the info in config file for auto fill.
 	AI
