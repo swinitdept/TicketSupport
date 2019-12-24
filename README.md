@@ -30,7 +30,6 @@ Upcoming feature:
 	Search function to find previously completed support tickets 
 	Client: When no network, auto dectect problem and fix it.
 	"Thank you" button or text box for client software. (survey?)
-	Search
 	Text Chat
 	Audio Chat
 	Auto find similarity problem in knowledge base, and give solution when user lunch the client software as well as when server gets the ticket. (or Google passiable fix)
