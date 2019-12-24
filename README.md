@@ -26,6 +26,7 @@ Current feature in process:
 
 
 Upcoming feature:
+
 	Search function to find previously completed support tickets 
 	Client: When no network, auto dectect problem and fix it.
 	"Thank you" button or text box for client software. (survey?)
